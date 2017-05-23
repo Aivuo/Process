@@ -5,6 +5,6 @@ void setup()
 
 void draw()
 {
-  
+  rect(40, 60, 200, 200);
   
 }
